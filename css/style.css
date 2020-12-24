@@ -35,6 +35,20 @@ html, body {
     padding: 0 5px;
 }
 
+.button_link {
+    color:crimson;
+}
+
+button {
+    color:cadetblue;
+    background-color: cornsilk;
+    border: none;
+    border-radius:10px;
+    font-size: 60px;
+    font-weight:600;
+    padding: 10px 15px;
+}
+
 a {
     color:snow;
     text-decoration: none;
